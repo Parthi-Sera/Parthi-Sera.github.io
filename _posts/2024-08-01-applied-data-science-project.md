@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Name
+author: PARTHIBAN SETHURAMAN
 title: "Applied Data Science Project Documentation"
 categories: ITD214
 ---
