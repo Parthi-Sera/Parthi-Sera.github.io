@@ -1,14 +1,25 @@
-title: Data Science Project Showcase
+title: ITD 214 APPLIED DATA SCIENCE PROJECT 
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Parthiban Sethuraman
+  email: sparthiban22@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an description for your site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+ Scenario Background:
+
+The dataset, obtained from Kaggle, related to conversion record of inquirers for enrolling course in X Education, an institution offering a diverse range of courses including financial management, e-commerce, business administration, healthcare, IT project managements, service excellence and other courses. 
+
+The dataset encompasses a comprehensive overview of inquirers, including their demographics, online behavior, lead sources, asymmetrical information, and most crucially, their conversion status - whether they ultimately enrolled in a course.  
+
+
+Data Mining:
+Analyse the dataset and provides insights into which may reveal hidden patterns influencing enrollment decisions through:
+Clustering 
+Regression Model 
+Text Analytics 
+Decision Tree
+
 
 # Build settings
 
